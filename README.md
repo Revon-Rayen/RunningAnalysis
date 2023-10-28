@@ -1,0 +1,1 @@
+This is a personal project, where I use Python to analyze and make nice graphs of my running data
